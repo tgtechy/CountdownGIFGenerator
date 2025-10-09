@@ -32,6 +32,6 @@ Example:
 The settings in the screenshot result in the GIF below it:
 ![Alt text](images/2.png)
 
-Results in C:\Users\admin\Countdown_05.gif:
+File stored in C:\Users\admin\Countdown_05.gif:
 
 ![Alt text](images/3.png)
