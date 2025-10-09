@@ -37,7 +37,6 @@ File stored in C:\Users\admin\Countdown_05.gif:
 ![Alt text](images/3.png)
 
 # Installation
-Download and run the setup program from the "Releases" link at the right hand side of the page.
-It is not digitally signed, so you will likely get a warning when installing.
-The exe has been scanned with multiple anti-virus programs and is virus-free.
-The SHA hash value for the setup exe is also provided for you to check against the downloaded version for secuirty. 
+Download and run CountdownGIFGeneratorSetup.exe from the "Releases" link at the right hand side of the page.
+The setup file is not digitally signed so you will likely get a warning when installing. It has been scanned with multiple anti-virus programs and is virus-free.
+The SHA256 hash value for the file is provided for you to check against the downloaded version for additional secuirty.
