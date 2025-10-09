@@ -38,5 +38,6 @@ File stored in C:\Users\admin\Countdown_05.gif:
 
 # Installation
 Download and run the setup program from the "Releases" link at the right hand side of the page.
-It is not digitally signed, so you will likely get a warning, but it has been scanned with multiple anti-virus programs.
-The SHA hash value for the setup exe is provided, so you can check it against the download version for secuirty. 
+It is not digitally signed, so you will likely get a warning when installing.
+The exe has been scanned with multiple anti-virus programs and is virus-free.
+The SHA hash value for the setup exe is also provided for you to check against the downloaded version for secuirty. 
