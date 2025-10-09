@@ -36,7 +36,7 @@ File stored in C:\Users\admin\Countdown_05.gif:
 
 ![Alt text](images/3.png)
 
-#Installation
+# Installation
 The program is a standalone .exe file, no installation is required.
 Download the .exe from the "Releases" link at the right hand side of the page.
 It is not digitally signed, so you will likely get a warning, but it has been scanned with multiple anti-virus programs.
