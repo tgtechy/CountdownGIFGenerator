@@ -19,7 +19,7 @@ The GIFs are stored in the directory of your choice with the filename of "Countd
 
 Settings are saved when you exit and reloaded when you begin the program again.
 
-The settings file is located at APPDATA\Roaming\CountdownGIFGenerator. If the user is "admin," the location and filename is:
+The settings file is located in the folder APPDATA\Roaming\CountdownGIFGenerator. For example, if the user is "admin," the folder path and filename is:
 
 C:\Users\admin\AppData\Roaming\CountdownGIFGenerator\countdown_gif_generator_settings.json
 
