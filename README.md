@@ -1,4 +1,4 @@
-Animated Countdown GIF Generator
+**Animated Countdown GIF Generator**
 
 This Windows program generates animated GIFs showing a countdown from a predetermined number of seconds. The graphics it produces are similar to a stopwatch face with moving arc that decreases its length from 100% to 0 for the countdown period. For example, the following graphic shows a snapshot of a GIF shortly after it began counting down from 5 seconds:
 
@@ -12,8 +12,8 @@ You may also choose the size of the GIF and the FPS (frames per second) rate. Hi
 
 Note that the Countdown start value determines the beginning value for the countdown sequence. For example, if you set the value at 5:
 
-    If you only want a single countdown GIF, select the "Generate a single GIF" button. A single GIF counting down from 5 to 0 will be generated.
-    Select "Generate a series of GIFs if you want a series of GIFs counting down from 5, then another GIF counting down from 4, etc, Five GIFs will be generated, one beginning a countdown from 5 to 0, the next from 4 to 0, etc. This is useful if you have a need for different countdown values dependent on your needs.
+- If you only want a single countdown GIF, select the "Generate a single GIF" button. A single GIF counting down from 5 to 0 will be generated.
+- Select "Generate a series of GIFs if you want a series of GIFs counting down from 5, then another GIF counting down from 4, etc, Five GIFs will be generated, one beginning a countdown from 5 to 0, the next from 4 to 0, etc. This is useful if you have a need for different countdown values dependent on your needs.
 
 The GIFs are stored in the directory of your choice with the filename of "Countdown_XX.gif" where XX is the beginning countdown number.
 
