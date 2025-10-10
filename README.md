@@ -1,10 +1,10 @@
 ## Animated Countdown GIF Generator
 
-This is a Windows 10 or 11, 64 bit compatible executable program. The program generates animated GIFs showing a countdown from a specified number of seconds. The graphics it produces are similar to a stopwatch face with a moving arc that decreases its length from 100% to 0 over the countdown period. For example, the following graphic shows a generated GIF counting down from 5 seconds:
+This is a Windows 10 or 11, 64 bit compatible executable program. The program generates animated GIFs showing a countdown from a specified number of seconds. The graphics it produces are similar to a stopwatch face with a moving arc that decreases its length from 100% to 0 over the countdown period. The following GIF shows a countdown from 5 seconds:
 
 ![Alt text](images/1.gif)
 
-Fonts, shadows, colors, border widths, arc width, "zooming" text, and an animated sparkle at the end of the arc are all configurable.
+Fonts, shadows, colors, borders, arc width, "zooming" text, and an animated sparkle at the end of the arc are all configurable.
 
 The GIFs are transparent so they can be used as overlays on screens, photos, movies, etc.
 
