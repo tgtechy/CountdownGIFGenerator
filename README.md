@@ -21,11 +21,11 @@ Settings are saved when you exit and reloaded when you start the program again.
 
 The settings file is located in the folder APPDATA\Roaming\CountdownGIFGenerator. For example, if the user is "admin," the folder path and filename is:
 
-C:\Users\admin\AppData\Roaming\CountdownGIFGenerator\countdown_gif_generator_settings.json
+[Drive Letter]:\Users\admin\AppData\Roaming\CountdownGIFGenerator\countdown_gif_generator_settings.json
 
 If you want to reset all settings to defaults, simply delete the .json file from the directory.
 
-Note that you can choose settings that cause differentgraphic elements to overlap and/or fall outside the GIF width. If this happens, simply readjust settings to prevent it.
+Note that you can choose settings that cause different graphic elements to overlap and/or fall outside the GIF width. If this happens, simply readjust settings to prevent it.
 
 # Settings Screen
 ![Alt text](images/2.png)
