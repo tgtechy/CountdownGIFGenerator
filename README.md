@@ -12,20 +12,20 @@ You may also choose the size of the GIF and the FPS (frames per second) rate. Hi
 
 The Maximum Seconds value determines the beginning value for the countdown sequence. For example, if you set the value at 5:
 
-- A single GIF count down from 5 to 0 will be generated if the "Generate a single GIF" is checked. 
-- A series of five GIFs will be generated if the "Generate a series of GIFs" is checked. One GIF will count down from 5, then another GIF will count down from 4, etc. This is useful if you have a need for different countdown values dependent on your needs.
+- A single GIF countdown from 5 to 0 will be generated if the "Generate a single GIF" is checked. 
+- A series of five GIFs will be generated if the "Generate a series of GIFs" is checked. One GIF will countdown from 5, then another GIF will countdown from 4, etc. This is useful if you have a need for different countdown values dependent on your needs.
 
 The GIFs are stored in the directory of your choice with the filename "Countdown_XX.gif" where XX is the beginning countdown number.
 
-Settings are saved when you exit and reloaded when you begin the program again.
+Settings are saved when you exit and reloaded when you start the program again.
 
 The settings file is located in the folder APPDATA\Roaming\CountdownGIFGenerator. For example, if the user is "admin," the folder path and filename is:
 
 C:\Users\admin\AppData\Roaming\CountdownGIFGenerator\countdown_gif_generator_settings.json
 
-If you want to reset all settings to defaults, simply delete the .json file.
+If you want to reset all settings to defaults, simply delete the .json file from the directory.
 
-Note that you can choose settings that cause the graphic elements to overlap and/or fall outside the GIF width. If this happens, simply readjust settings to prevent it.
+Note that you can choose settings that cause differentgraphic elements to overlap and/or fall outside the GIF width. If this happens, simply readjust settings to prevent it.
 
 # Usage Example
 
