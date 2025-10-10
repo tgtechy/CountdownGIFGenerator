@@ -10,6 +10,9 @@ The GIFs are transparent so they can be used as overlays on screens, photos, mov
 
 You may also choose the size of the GIF and the FPS (frames per second) rate. High frames per second generate smoother countdowns but produce larger file sizes and increase generation time.
 
+## Settings Screen
+![Alt text](images/2.png)
+
 The Maximum Seconds value determines the beginning value for the countdown sequence. For example, if you set the value at 5:
 
 - A single GIF countdown from 5 to 0 will be generated if the "Generate a single GIF" is checked. 
@@ -26,9 +29,6 @@ The settings file is located in the folder APPDATA\Roaming\CountdownGIFGenerator
 If you want to reset all settings to defaults, simply delete the .json file from the directory.
 
 Note that you can choose settings that cause different graphic elements to overlap and/or fall outside the GIF width. If this happens, simply readjust settings to prevent it.
-
-## Settings Screen
-![Alt text](images/2.png)
 
 ## Installation
 From the main repository page, click the "Latest Release" link on the right hand side of the page. Then click on the CountdownGIFGeneratorSetup.exe link to download it. Run CountdownGIFGeneratorSetup.exe to install. The setup file is not digitally signed so you will likely get a warning when installing. It has been scanned with multiple anti-virus programs and is virus-free. The SHA256 hash value for the file is provided for you to check against the downloaded version for additional secuirty.
