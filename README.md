@@ -27,10 +27,10 @@ If you want to reset all settings to defaults, simply delete the .json file from
 
 Note that you can choose settings that cause different graphic elements to overlap and/or fall outside the GIF width. If this happens, simply readjust settings to prevent it.
 
-# Settings Screen
+## Settings Screen
 ![Alt text](images/2.png)
 
-# Installation
+## Installation
 Download and run CountdownGIFGeneratorSetup.exe from the "Releases" link at the right hand side of the page.
 The setup file is not digitally signed so you will likely get a warning when installing. It has been scanned with multiple anti-virus programs and is virus-free.
 The SHA256 hash value for the file is provided for you to check against the downloaded version for additional secuirty.
