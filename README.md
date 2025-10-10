@@ -27,14 +27,8 @@ If you want to reset all settings to defaults, simply delete the .json file from
 
 Note that you can choose settings that cause differentgraphic elements to overlap and/or fall outside the GIF width. If this happens, simply readjust settings to prevent it.
 
-# Usage Example
-
-The settings in the screenshot result in the GIF below it:
+# Settings Screen
 ![Alt text](images/2.png)
-
-File stored in C:\Users\admin\Countdown_05.gif:
-
-![Alt text](images/3.png)
 
 # Installation
 Download and run CountdownGIFGeneratorSetup.exe from the "Releases" link at the right hand side of the page.
