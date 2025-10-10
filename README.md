@@ -1,6 +1,6 @@
 ## Animated Countdown GIF Generator (Windows)
 
-This Windows program generates animated GIFs showing an animated countdown from a specified number of seconds. The graphics it produces are similar to a stopwatch face with moving arc that decreases its length from 100% to 0 over the countdown period. For example, the following graphic shows a snapshot of a GIF shortly after it began counting down from 5 seconds:
+This Windows program generates animated GIFs showing an animated countdown from a specified number of seconds. The graphics it produces are similar to a stopwatch face with moving arc that decreases its length from 100% to 0 over the countdown period. For example, the following graphic shows a generated GIF counting down from 5 seconds:
 
 ![Alt text](images/1.gif)
 
