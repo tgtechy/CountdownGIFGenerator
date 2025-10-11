@@ -11,6 +11,7 @@ The GIFs are transparent so they can be used as overlays on screens, photos, mov
 You may also choose the size of the GIF and the FPS (frames per second) rate. High frames per second generate smoother countdowns but produce larger file sizes and increase generation time.
 
 ## Settings Screen
+
 ![Alt text](images/2.png)
 
 The Maximum Seconds value determines the beginning value for the countdown sequence. For example, if you set the value at 5:
