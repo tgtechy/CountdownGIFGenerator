@@ -12,7 +12,9 @@ You may also choose the size of the GIF and the FPS (frames per second) rate. Hi
 
 ## Settings Screen
 
-![Alt text](images/2.png)
+<p align="center">
+  <img src="images/2.png" width="100%">
+</p>
 
 The Maximum Seconds value determines the beginning value for the countdown sequence. For example, if you set the value at 5:
 
