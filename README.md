@@ -12,6 +12,8 @@ You may also choose the size of the GIF and the FPS (frames per second) rate. Hi
 
 ## Settings Screen
 
+![Alt text](images/2.png)
+
 The Maximum Seconds value determines the beginning value for the countdown sequence. For example, if you set the value at 5:
 
 - A single GIF countdown from 5 to 0 will be generated if the "Generate a single GIF" is checked. 
