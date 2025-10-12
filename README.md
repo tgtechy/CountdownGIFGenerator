@@ -35,5 +35,4 @@ Note that you can choose settings that cause different graphic elements to overl
 From the main repository page, click the "Latest" link in the Releases section on the right hand side of the page. Then click the CountdownGIFGeneratorSetup.exe link to download the setup file. Run the file to install. The setup file is not digitally signed so you will likely get a warning when installing. You may bypass these warnings. The files have been scanned with multiple anti-virus programs and are virus-free. The SHA256 hash value for the file is provided for you to check against the downloaded version for additional security.
 
 If you feel generous and want to buy me a cup of coffee, use the "Donate" link on the main screen or click here:
-[Link Text]([https://example.com](https://www.paypal.me/tgtechdevshop)
-
+[Link Text](https://www.paypal.me/tgtechdevshop)
