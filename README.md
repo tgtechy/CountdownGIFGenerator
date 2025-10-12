@@ -12,7 +12,7 @@ You may also choose the size of the GIF and the FPS (frames per second) rate. Hi
 
 ## Settings Screen
 
-<p align="center">
+<p align="left">
   <img src="images/2.png" width="600">
 </p>
 
