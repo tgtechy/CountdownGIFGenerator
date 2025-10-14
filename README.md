@@ -32,7 +32,7 @@ The settings file is located in the folder APPDATA\Roaming\CountdownGIFGenerator
 
 `[Drive Letter]:\Users\admin\AppData\Roaming\CountdownGIFGenerator\countdown_gif_generator_settings.json`
 
-If you want to reset all settings to defaults, simply delete the .json file from the directory.
+  - If you want to reset all settings to defaults delete the .json file from the directory.
 
 Note that you can choose settings that cause different graphic elements to overlap and/or fall outside the GIF width. If this happens, simply readjust settings to prevent it.
 
