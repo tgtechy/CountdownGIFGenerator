@@ -5,6 +5,15 @@ This is a Windows 10 or 11, 64 bit compatible executable program. The program ge
 <p align="left">
   <img src="images/1.gif" width="400">
 </p>
+<p align="left">
+  <img src="images/2.gif" width="400">
+</p>
+<p align="left">
+  <img src="images/3.gif" width="400">
+</p>
+<p align="left">
+  <img src="images/4.gif" width="400">
+</p>
 
 Fonts, shadows, colors, borders, arc width, "zooming" text, and an animated sparkle at the end of the arc are all configurable.
 
