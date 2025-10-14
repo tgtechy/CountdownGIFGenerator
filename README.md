@@ -3,7 +3,7 @@
 This is a Windows 10 or 11, 64 bit compatible executable program. The program generates highly customizable animated GIFs showing a countdown from a specified number of seconds. The graphics it produces are similar to a clock face with a moving arc that decreases its length over the countdown period. The following GIF shows an example countdown GIF:
 
 <p align="left">
-  <img src="images/1.gif" width="400">
+  <img src="images/1.gif?v2" width="400">
 </p>
 <p align="left">
   <img src="images/2.gif" width="400">
