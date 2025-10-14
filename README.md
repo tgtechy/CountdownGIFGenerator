@@ -22,7 +22,7 @@ You may also choose the size of the GIF and the FPS (frames per second) rate. Hi
 The Maximum Seconds value determines the beginning value for the countdown sequence. For example, if you set the value at 5:
 
 - A single GIF countdown from 5 to 0 will be generated if the "Generate a single GIF" is checked. 
-- A series of five GIFs will be generated if the "Generate a series of GIFs" is checked. One GIF will countdown from 5, then another GIF will countdown from 4, etc.
+- A series of five GIFs will be generated if the "Generate a series of GIFs" is checked. One GIF will countdown from 5 to 0, then another GIF will countdown from 4 to 0, etc.
 
 The GIFs are stored in the directory of your choice with the filename "Countdown_XX.gif" where XX is the beginning countdown number.
 
