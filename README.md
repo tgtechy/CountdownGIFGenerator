@@ -9,7 +9,7 @@ This is a Windows 10 or 11, 64 bit compatible executable program. The program re
   <img src="images/4.gif" width="200">
 </p>
 
-<p align="center">Note: Your browser probably shows the examples looping.</p>
+<p align="center"><em>Note: Your browser probably shows the examples looping.</em></p>
 
 The GIFs are suitable for overlays on photobooth screens, movies, etc since the trasparency allows the background to show through.
 
