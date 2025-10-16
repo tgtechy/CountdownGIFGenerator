@@ -11,7 +11,7 @@ This is a Windows 10 or 11, 64 bit compatible executable program. The program re
 
 <p align="center">Note: Your browser probably shows the examples looping.</p>
 
-The GIFs are suitable for overlays on photobooth screens, movies, etc.  
+The GIFs are suitable for overlays on photobooth screens, movies, etc since the trasparency allows the background to show through.
 
 Fonts, shadows, colors, borders, arc width, "zooming" text, and an animated sparkle at the end of the arc are all configurable.
 
