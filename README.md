@@ -9,7 +9,7 @@ This is a Windows 10 or 11, 64 bit compatible executable program. The program ge
   <img src="images/4.gif" width="200">
 </p>
 
-The GIFs are suitable for overlays on screens, movies, etc.
+The GIFs are suitable for overlays on photobooth screens, movies, etc.
 
 Fonts, shadows, colors, borders, arc width, "zooming" text, and an animated sparkle at the end of the arc are all configurable.
 
