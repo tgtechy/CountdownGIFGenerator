@@ -11,7 +11,7 @@ This is a Windows 10 or 11, 64 bit executable. The program renders highly custom
 
 <p align="center"><em>Note: Your browser probably shows the examples looping. The GIFs themselves don't loop by default.</em></p>
 
-The GIFs are suitable for overlays on photobooth screens, trivia game timer screens, movies, etc. Trasparency allows live backgrounds to show through. You can also generate GIFs with solid background colors if you prefer. 
+The GIFs are suitable for overlays on photobooth screens, trivia game timer screens, movies, etc. Trasparency allows live backgrounds to show through as the timer counts down. You can also generate GIFs with solid background colors if you prefer. 
 
 Fonts, shadows, colors, borders, arc width, "zooming" text, and an animated sparkle at the end of the arc are all configurable.
 
