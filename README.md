@@ -11,11 +11,11 @@ This is a Windows 10 or 11, 64 bit executable. The program renders highly custom
 
 <p align="center"><em>Note: Your browser probably shows the examples looping. The GIFs themselves don't loop by default.</em></p>
 
-The GIFs are suitable for overlays on photobooth screens, movies, etc since the trasparency allows the background to show through.
+The GIFs are suitable for overlays on photobooth screens, trivia game timer screens, movies, etc. Trasparency allows live backgrounds to show through. You can also generate GIFs with solid background colors if you prefer. 
 
 Fonts, shadows, colors, borders, arc width, "zooming" text, and an animated sparkle at the end of the arc are all configurable.
 
-You may also choose the size of the GIF and the FPS (frames per second) rate. High frames per second generate smoother countdowns but produce larger file sizes and increase generation time.
+You may choose the size of the GIF and the FPS (frames per second) rate. High frames per second generate smoother countdowns but produce larger file sizes and increase generation time. 10 FPS is usually good enough for most applications. You can experiment with higher FPS rates to see what works best for you.
 
 ## Settings Screen
 <img src="images/2.png?v=3" width="600">
