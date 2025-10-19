@@ -15,7 +15,7 @@ The GIFs are suitable for overlays on photobooth screens, trivia game screens, m
 
 Fonts, shadows, colors, borders, arc width, "zooming" text, and an animated sparkle at the end of the arc are all configurable.
 
-You may choose the size of the GIF and the FPS (frames per second) rate. High frames per second generate smoother countdowns but produce larger file sizes and increase generation time. 10 FPS is usually good enough for most applications. You can experiment with higher FPS rates to see what works best for you.
+You may choose the size of the GIF and the FPS (frames per second) rate. High frames per second generate smoother countdowns but produce larger file sizes and increase generation time. 10 FPS is usually good enough. You can experiment with higher FPS rates to see what works best for you.
 
 ## Settings Screen
 <img src="images/2.png?v=3" width="600">
@@ -25,9 +25,9 @@ The Maximum Seconds value determines the beginning value for the countdown. For 
 - A single GIF countdown from 5 to 0 will be generated if the "Generate a single GIF" is checked. 
 - A series of five GIFs will be generated if the "Generate a series of GIFs" is checked. One GIF will countdown from 5 to 0, then another GIF will countdown from 4 to 0, etc.
 
-The GIFs are stored in the directory of your choice with the filename "Countdown_XX.gif" where XX is the beginning countdown number.
+The GIFs are stored in the directory of your choice as "Countdown_XX.gif" where XX is the beginning countdown number.
 
-Settings are saved when you exit and reloaded when you restart the program.
+Settings are saved when you exit and reloaded when you start the program.
 
 The settings file is located in the folder APPDATA\Roaming\CountdownGIFGenerator. For example, if the user is "admin," the folder path and filename is:
 
