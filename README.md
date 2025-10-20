@@ -18,8 +18,8 @@ Fonts, shadows, colors, borders, arc width, "zooming" text, and an animated spar
 You may choose the size of the GIF and the FPS (frames per second) rate. High frames per second generate smoother countdowns but produce larger file sizes and increase generation time. 10 FPS is usually good enough. You can experiment with higher FPS rates to see what works best for you.
 
 ## Settings Screen
-<img src="images/s1.png?v=3" width="400"><img src="images/s2.png?v=3" width="400">
-<img src="images/s3.png?v=3" width="400">
+<img src="images/s1.png?v=3" width="400">
+<img src="images/s2.png?v=3" width="400"> <img src="images/s3.png?v=3" width="400">
 
 The Maximum Seconds value determines the beginning value for the countdown. For example, if you set the value at 5:
 
