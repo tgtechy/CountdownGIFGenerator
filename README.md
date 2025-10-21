@@ -15,7 +15,7 @@ The GIFs are suitable for overlays on photobooth screens, trivia game screens, m
 
 Fonts, shadows, colors, borders, arc width, "zooming" text, and an animated sparkle at the end of the arc are all configurable.
 
-You may choose the size of the GIF and the FPS (frames per second) rate. High frames per second generate smoother countdowns but produce larger file sizes and increase generation time. 10 FPS is usually good enough. You can experiment with higher FPS rates to see what works best for you.
+You may choose the GIF dimensions and the FPS (frames per second) rate. High frames per second generate smoother countdowns but produce larger file sizes and increase generation time. 10 FPS is usually good enough. You can experiment with higher FPS rates to see what works best for you.
 
 ## Settings Screen
 <img src="images/s1.png?v=3" width="400">
