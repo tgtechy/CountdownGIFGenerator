@@ -45,6 +45,7 @@ If you feel generous and want to buy me a cup of coffee, use the "Donate" link o
 From the main repository page, click the "Latest" link in the Releases section on the right hand side of the page. Then click the CountdownGIFGeneratorSetup.exe link to download the setup file. Run the file to install. **The setup file is not digitally signed so you will likely get a warning when installing. You may bypass these warnings.** The files have been scanned with multiple anti-virus programs and are virus-free. The SHA256 hash value for the file is provided for you if you want to check it against the downloaded version for additional security.
 
 To bypass the Windows warning, do the following:
+
 ![Step 1](images/windows-protected-your-pc-click1.png?v=3)
 ![Step 2](images/windows-protected-your-pc-click2.png?v=3)
 
