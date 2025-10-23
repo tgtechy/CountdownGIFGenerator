@@ -42,7 +42,7 @@ If you feel generous and want to buy me a cup of coffee, use the "Donate" link o
 [Donate via PayPal](https://www.paypal.me/tgtechdevshop)
 
 ## Installation
-From the main repository page, click the "Latest" link in the Releases section on the right hand side of the page. Then click the CountdownGIFGeneratorSetup.exe link to download the setup file. Run the file to install. **The setup file is not digitally signed so you will likely get a warning when installing. You may bypass these warnings.** Getting a signing certificate is quite expensive for small, individual developoers. **Note: The files have been scanned with multiple anti-virus programs and are virus-free.** Note that the SHA256 hash value for the file is provided if you want to check the downloaded version against the original to ensure nothing has been tampered with.
+From the main repository page, click the "Latest" link in the Releases section on the right hand side of the page. Then click the CountdownGIFGeneratorSetup.exe link to download the setup file. Run the file to install. ⚠️ **The setup file is not digitally signed so you will likely get a warning when installing. You may bypass these warnings.** ⚠️  Getting a signing certificate is quite expensive for small, individual developers. **Note: The files have been scanned with multiple anti-virus programs and are virus-free.** Note that the SHA256 hash value for the file is provided if you want to check the downloaded version against the original to ensure nothing has been tampered with.
 
 To bypass the Windows warning, do the following:
 
