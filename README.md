@@ -46,6 +46,6 @@ From the main repository page, click the "Latest" link in the Releases section o
 
 To bypass the Windows warning, do the following:
 
-![Step 1](images/windows-protected-your-pc-click1.png?v=3)
-![Step 2](images/windows-protected-your-pc-click2.png?v=3)
+![Step 1](images/windows-protected-your-pc-click1.png?v=3 width="200")
+![Step 2](images/windows-protected-your-pc-click2.png?v=3 width="200")
 
