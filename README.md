@@ -1,6 +1,6 @@
 ## Animated Countdown GIF Generator
 
-This is a FREE Windows 10 or 11, 64 bit executable. The program renders highly customizable transparent animated GIFs showing a countdown from a specified number of seconds. The graphics it produces are similar to a clock face with an optional arc that decreases its length over the countdown period. The following animated GIFs show some example outputs for a 5 second countdown:
+This is a free Windows 10 or 11, 64 bit program. No ads or disabled features. The program renders highly customizable transparent animated GIFs showing a countdown from a specified number of seconds. The graphics it produces are similar to a clock face with an optional arc that decreases its length over the countdown period. The following animated GIFs show some example outputs for a 5 second countdown:
 
 <p align="left">
   <img src="images/1.gif?v2" width="200">
