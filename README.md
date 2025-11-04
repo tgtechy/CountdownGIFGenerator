@@ -54,3 +54,4 @@ To bypass the Windows warning if it appears during setup, click 'More info', the
 <img src="images/windows-protected-your-pc-click1.png?v=3" width="300">
 
 <img src="images/windows-protected-your-pc-click2.png?v=3" width="300">
+
