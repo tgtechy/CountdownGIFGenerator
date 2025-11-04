@@ -7,6 +7,7 @@ This is a <u>**free**</u> Windows 10 or 11 program. No ads or disabled features.
   <img src="images/2.gif" width="200">
   <img src="images/3.gif" width="200">
   <img src="images/4.gif" width="200">
+  <img src="images/5.gif" width="200">
 </p>
 
 <p align="center"><em>Note: Your browser probably shows the examples looping. The GIFs themselves don't loop by default.</em></p>
