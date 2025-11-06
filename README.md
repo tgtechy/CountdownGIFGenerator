@@ -1,6 +1,8 @@
 ## Animated Countdown GIF Generator
 
-This is a <u>**free**</u> Windows 10/11 program. No ads or disabled features. The program renders highly customizable transparent animated GIFs showing a countdown from a specified number of seconds. The graphics it produces are similar to a clock face with an optional arc that decreases its length over the countdown period. The following animated GIFs show some example outputs for a 5 second countdown:
+This is a Windows 10/11 program. All core functions are functional in the free version. If you would like to unlock the premium features, a small donation is requested.
+
+The program renders highly customizable transparent animated GIFs showing a countdown from a specified number of seconds. The graphics it produces are similar to a clock face with an optional arc that decreases its length over the countdown period. The following animated GIFs show some example outputs for a 5 second countdown:
 
 <p align="left">
   <img src="images/1.gif?v2" width="200">
@@ -29,18 +31,11 @@ The Maximum Seconds value determines the beginning value for the countdown. For 
 
 The GIFs are stored in the directory of your choice as "Countdown_XX.gif" where XX is the beginning countdown number.
 
-Settings are saved when you exit and reloaded when you start the program.
+Settings are saved when you exit and reloaded when you start the program. You may also save/load custom settings.
 
-The settings file is located in the folder APPDATA\Roaming\CountdownGIFGenerator. For example, if the user is "admin," the folder path and filename is:
+Note that you can choose settings that cause different graphic elements to fall outside the GIF width or clip the font for very large fonts. Sometimes you may like that effect; if not, simply readjust settings to prevent it.
 
-`[Drive Letter]:\Users\admin\AppData\Roaming\CountdownGIFGenerator\countdown_gif_generator_settings.json`
-
-  - If you want to reset all settings to defaults, delete the .json file from the directory.
-
-Note that you can choose settings that cause different graphic elements to fall outside the GIF width. Sometimes you may like that effect; if not, simply readjust settings to prevent it.
-
-If you feel generous and want to buy me a cup of coffee, use the "Donate" link on the main screen or click here: 
-[Donate via PayPal](https://www.paypal.me/tgtechdevshop)
+If you want to unlock the premium features, use the "Upgrade" link on the main screen. To simply make a donation to support further development, click here: [Donate via PayPal](https://www.paypal.me/tgtechdevshop)
 
 ## Installation
 From the main repository page, click the "Latest" link in the Releases section on the right hand side of the page. Then click the CountdownGIFGeneratorSetup.exe link to download the setup file. Run the file to install.
