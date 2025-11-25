@@ -16,7 +16,7 @@ The program renders highly customizable transparent animated GIFs showing a coun
 
 The GIFs are suitable for overlays on photobooth screens, trivia game screens, movies, etc. Transparency allows live backgrounds to show through as the timer counts down. You can also generate GIFs with solid background colors if you prefer. 
 
-Fonts, shadows, colors, borders, arc width, "zooming" text, and an animated sparkle at the end of the arc are all configurable.
+Fonts, shadows, colors, borders, arc width, "zooming" text, and an animated sparkle at the end of the arc are all configurable. Many effects can be combined with each other for one-of-a-kind countdowns.
 
 You may choose the GIF dimensions and the FPS (frames per second) rate. High frames per second generate smoother countdowns but produce larger file sizes and increase generation time. 20 FPS is smooth. You can experiment with higher or lower FPS rates to see what works best for you.
 
